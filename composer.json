@@ -1,5 +1,5 @@
 {
-    "name": "imjcw/terse-str",
+    "name": "terse/str",
     "description": "str helpers for terse.",
     "authors": [
         {
@@ -20,6 +20,5 @@
         "psr-4": {
             "Terse\\Tests\\": "tests/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
