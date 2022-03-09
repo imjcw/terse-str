@@ -20,5 +20,6 @@
         "psr-4": {
             "Terse\\Tests\\": "tests/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
