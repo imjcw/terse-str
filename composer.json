@@ -7,6 +7,7 @@
             "email": "imjcw@imjcw.com"
         }
     ],
+    "license": "MIT",
     "require-dev": {
         "phpunit/phpunit": "^5.7 || ^6 || ^7 || ^8 ||^9"
     },
